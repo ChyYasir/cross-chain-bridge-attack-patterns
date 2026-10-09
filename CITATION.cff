@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this dataset or code, please cite it as below."
 title: "Attack Patterns in Cross-Chain Bridges: Dataset, Codebook, and Analysis"
 version: 1.0.0
-date-released: 2026-10-07
+date-released: 2026-10-10
 type: dataset
 authors:
   - given-names: Ishraq
