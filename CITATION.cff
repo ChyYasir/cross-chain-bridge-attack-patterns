@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+title: "Attack Patterns in Cross-Chain Bridges: Dataset, Codebook, and Analysis"
+version: 1.0.0
+date-released: 2026-10-07
+type: dataset
+authors:
+  - given-names: Ishraq
+    family-names: Samiha
+    email: ishraqsamiha2000@gmail.com
+    affiliation: "Chittagong University of Engineering and Technology, Bangladesh"
+  - given-names: Yasir
+    family-names: Rahman
+    email: chyyasir2000@gmail.com
+    affiliation: "Chittagong University of Engineering and Technology, Bangladesh"
+  - given-names: Rahma
+    family-names: Mukta
+    email: rahma.mukta@anu.edu.au
+    affiliation: "Chittagong University of Engineering and Technology, Bangladesh; Australian National University"
+license: CC-BY-4.0
+repository-code: "https://github.com/ChyYasir/cross-chain-bridge-attack-patterns"
+keywords:
+  - cross-chain bridge
+  - blockchain security
+  - attack taxonomy
+  - incident dataset

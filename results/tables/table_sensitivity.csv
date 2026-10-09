@@ -1,0 +1,8 @@
+,reported,minimum,maximum
+PF incidents,13,11,15
+CS incidents,13,13,16
+PF and CS share of total loss,0.8617701609689227,0.7526370131230962,0.9351547280221008
+FD-3 and FD-5 share of total loss,0.938879083564168,0.938879083564168,0.9398470796358143
+PF and CS two most common (all 64),True,True,True
+ESM incidents,3,2,3
+IH incidents,3,2,4

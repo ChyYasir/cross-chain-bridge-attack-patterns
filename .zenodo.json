@@ -1,0 +1,29 @@
+{
+  "title": "Attack Patterns in Cross-Chain Bridges: Dataset, Codebook, and Analysis",
+  "upload_type": "dataset",
+  "description": "Dataset, codebook, and analysis scripts for an empirical study of 48 evidence-supported cross-chain bridge attack incidents (January 2022 to August 2026; USD 2.676 billion in gross bridge-specific losses). Each incident is classified into one of six trust-violation attack patterns and one of five functional domains, with evidence levels, normalised losses, loss basis, classification rationale, boundary-case alternatives, and excluded candidates. The scripts reproduce all tables and figures in the accompanying paper.",
+  "creators": [
+    {
+      "name": "Samiha, Ishraq",
+      "affiliation": "Chittagong University of Engineering and Technology"
+    },
+    {
+      "name": "Rahman, Yasir",
+      "affiliation": "Chittagong University of Engineering and Technology"
+    },
+    {
+      "name": "Mukta, Rahma",
+      "affiliation": "Chittagong University of Engineering and Technology; Australian National University"
+    }
+  ],
+  "keywords": [
+    "cross-chain bridge",
+    "blockchain security",
+    "attack taxonomy",
+    "incident dataset",
+    "DeFi"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "1.0.0"
+}

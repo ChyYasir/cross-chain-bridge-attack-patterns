@@ -1,0 +1,10 @@
+,value
+included_incidents,48.0
+affected_systems,43.0
+systems_attacked_more_than_once,4.0
+total_gross_loss_usd,2675630693.0
+median_gross_loss_usd,4250000.0
+q1_gross_loss_usd,1175000.0
+q3_gross_loss_usd,15037500.0
+mean_gross_loss_usd,55742306.104166664
+incidents_loss_ge_100m,7.0
