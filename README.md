@@ -2,6 +2,8 @@
 
 Dataset, codebook and analysis scripts for the paper *Attack Patterns in Cross-Chain Bridges* (Samiha, Rahman and Mukta).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23271026.svg)](https://doi.org/10.5281/zenodo.23271026)
+
 We collected 48 cross-chain bridge attacks that happened between January 2022 and August 2026. Together they account for about USD 2.676 billion in losses. Every incident is assigned one of six attack patterns (PF, LE, EI, ESM, CS, IH) and one of five functional domains (FD-1 to FD-5).
 
 ## What is in here
@@ -36,6 +38,6 @@ Code is under the MIT license. Data and documentation are under CC BY 4.0. Detai
 
 ## Citing
 
-Samiha, I., Rahman, Y., and Mukta, R. (2026). *Attack Patterns in Cross-Chain Bridges: Dataset, Codebook, and Analysis* (v1.0.0). Zenodo.
+Samiha, I., Rahman, Y., and Mukta, R. (2026). *Attack Patterns in Cross-Chain Bridges: Dataset, Codebook, and Analysis* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23271026
 
 See also `CITATION.cff`.
